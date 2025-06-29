@@ -1,28 +1,36 @@
-# Simple Portfolio ✨
+# Tejendra Magar – Web Developer 🌐
 
-A simple, customizable developer portfolio template built using HTML, CSS, and JavaScript. Easily deploy your portfolio on **GitHub Pages**!
+Welcome to my personal portfolio website built with HTML, CSS, and JavaScript.  
+This site showcases who I am, what I do, and how you can reach me.
 
 🔗 **Live Demo**: [Magartej.github.io](https://magartej.github.io)
 
-![simple_portfolio](https://user-images.githubusercontent.com/60568083/161209767-15f5b682-4c7e-4d87-bc41-6abc959cd387.gif)
+![Portfolio Screenshot](https://raw.githubusercontent.com/Magartej/Magartej.github.io/images/Screenshot.png)
+
+---
+
+## 👨‍💻 About Me
+
+**Hi, I'm Tejendra Magar**  
+I'm a passionate **Web Developer** who invests time learning new skills and improving my development abilities.  
+Currently exploring the **MERN Stack** and building creative, user-friendly websites.
 
 ---
 
 ## 🚀 Features
 
-- Clean and minimal design
-- Fully responsive layout
-- Easy to edit and deploy
-- Optimized for GitHub Pages
-- Section for projects, skills, and contact
+- Responsive Design
+- About Section
+- Contact Section
+- Social Links (GitHub, LinkedIn)
+- Clean and modern UI
 
 ---
 
-## 🛠️ Installation and Setup
+## 🛠️ How to Use
 
-1. **Fork** this repository.
-2. **Clone** the repository:
+1. **Clone** this repository:
    ```bash
-   git clone https://github.com/your-username/Magartej.github.io
+   git clone https://github.com/Magartej/Magartej.github.io
    cd Magartej.github.io
    ```
