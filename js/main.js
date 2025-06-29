@@ -24,6 +24,6 @@ function loadImage(id, targetId) {
 }
 
 document.addEventListener("DOMContentLoaded", function () {
-  loadImage("wallpaper"); 
+  loadImage("wallpaper");
   loadImage("pictureImage", "picture");
 });

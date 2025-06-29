@@ -197,8 +197,3 @@ bounceIn for the contact button */
 .social li:nth-child(5) {
   animation-delay: 1.2s;
 } */
-
-document.addEventListener('DOMContentLoaded', function() {
-  loadImage('wallpaper');
-  loadImage('pictureImage', 'picture');
-  });
