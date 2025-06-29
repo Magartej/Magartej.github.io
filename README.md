@@ -5,7 +5,7 @@ This site showcases who I am, what I do, and how you can reach me.
 
 🔗 **Live Demo**: [Magartej.github.io](https://magartej.github.io)
 
-![Portfolio Screenshot](https://raw.githubusercontent.com/Magartej/Magartej.github.io/images/Screenshot.png)
+![Portfolio Screenshot](https://github.com/Magartej/Magartej.github.io/blob/main/images/Screenshot.png)
 
 ---
 
